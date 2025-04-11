@@ -7,14 +7,19 @@
 • 3:00 AM – 7:00 AM
 
 ✅ What’s Done
-Pagination with PagingAdapter and PagingSource.
-Grid layout with RecyclerView for showing anime.
-Used fragments to keep things modular.
-Integrated ViewPager2 with TabLayout for switching between categories.
-Built everything using Kotlin + XML.
+Pagination using PagingAdapter and PagingSource.
+RecyclerView with grid layout to display anime nicely.
+Used Fragments for a clean and modular structure.
+ViewPager2 + TabLayout used for tabbed navigation.
+Built using Kotlin + XML.
+Retrofit for API calls.
+Coroutines for async/background tasks.
+LiveData + Observer pattern to update UI reactively.
+MVVM architecture with ViewModel and Repository pattern to separate concerns and keep it scalable.
 Added all required dependencies.
-Icons made using Canva (free version).
-Clicking on any anime takes you to a detailed page.
+Canva (free version) used to create the icons.
+Clicking any anime item opens a separate detail page.
+
 
 Indicators I Added:
 🔹 Blue tick → Marked as “Approved” (though I couldn’t find an exact meaning from the mail/website).
