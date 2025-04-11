@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="black50">#50000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#4CAF50</color>
+    <color name="yellow">#FFC107</color>
+    <color name="red">#F44336</color>
+
+
+    <color name="desertSand">#E2C8B4</color> <!-- Light Neutral Background -->
+    <color name="purplePink">#E33DC3</color> <!-- Primary Accent -->
+    <color name="bluishPurple">#794EE4</color> <!-- Secondary Accent -->
+    <color name="purpleFlower">#9A49DA</color> <!-- Tertiary Accent -->
+    <color name="dullPink">#CD86B4</color> <!-- Supporting Color -->
+    <color name="darkSalmon">#F0927C</color> <!-- Alert/Warm Accent -->
+    <color name="santaGrey">#9CA4B4</color> <!-- Neutral Text -->
+    <color name="thulianPink">#E46CA4</color> <!-- Fun Highlight -->
+    <color name="backgroundLight">#FFFFFF</color> <!-- Base Background -->
+    <color name="textPrimaryLight">#212121</color> <!-- Primary Text -->
+
+</resources>

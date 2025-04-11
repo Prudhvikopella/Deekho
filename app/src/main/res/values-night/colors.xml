@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FF000000</color>
+    <color name="black">#FFFFFFFF</color>
+    <color name="black50">#50FFFFFF</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="desertSand">#3B2F29</color> <!-- Inverted neutral for background -->
+    <color name="purplePink">#E95FDB</color> <!-- Slightly brighter for visibility -->
+    <color name="bluishPurple">#A393F2</color> <!-- Lighter tone of accent -->
+    <color name="purpleFlower">#C08DF2</color>
+    <color name="dullPink">#E8B4D4</color>
+    <color name="darkSalmon">#F4A28C</color>
+    <color name="santaGrey">#B6BBC7</color> <!-- Lighter for contrast -->
+    <color name="thulianPink">#F18DB8</color>
+    <color name="backgroundLight">#121212</color> <!-- Dark Background -->
+    <color name="textPrimaryLight">#FFFFFF</color> <!-- Light text on dark -->
+
+</resources>
