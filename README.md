@@ -19,6 +19,7 @@ MVVM architecture with ViewModel and Repository pattern to separate concerns and
 Added all required dependencies.
 Canva (free version) used to create the icons.
 Clicking any anime item opens a separate detail page.
+Internet permissions and network handling added.
 
 
 Indicators I Added:
